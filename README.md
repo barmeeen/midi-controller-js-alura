@@ -1,7 +1,7 @@
 # <p align="center"> Projeto do curso: JavaScript para Web: Crie páginas dinâmicas</p>
 
 <p align="center">
-<img src="" width="300" height="250">
+<img src="https://github.com/barmeeen/midi-controller-js-alura/blob/main/images/midi.png?raw=true" width="300" height="250">
 </p>
 
 ### Objetivos do curso
